@@ -11,6 +11,5 @@ You contemplate the fog passing around the trees.
 You take it all in.
 
 I hope you find what you came for.
-In these woods.
-I've left some baubles around.
-Maybe you'll find one contains a gem?
+I've left some trinkets around these woods.
+Maybe you'll find one is a gem?
