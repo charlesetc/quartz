@@ -1,6 +1,6 @@
 ---
-title: Iridescent
-date: 2022-10-02
+title: "Iridescent"
+date: "2022-10-02"
 ---
 
 I'm planning out a video game called "Iridescent". The idea is to take some notes about what it could be. Each note would represent one feature or aspect of the game. And then the notes could coalesce into a description of the game itself.

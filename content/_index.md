@@ -1,5 +1,5 @@
 ---
-title: 🌲 Charles' Forest
+title: "🌲 Charles' Forest"
 enableToc: false
 ---
 
