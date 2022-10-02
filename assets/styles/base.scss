@@ -63,7 +63,7 @@ thead {
 .hanchor {
   font-family: var(--font-header);
   opacity: 0.8;
-  transition: color 0.3s ease;
+  // transition: color 0.3s ease;
   color: var(--dark);
 }
 
@@ -168,7 +168,7 @@ blockquote {
   margin-left: 0em;
   border-left: 3px solid var(--secondary);
   padding-left: 1em;
-  transition: border-color 0.2s ease;
+  // transition: border-color 0.2s ease;
 }
 
 .footnotes p {
@@ -288,7 +288,7 @@ a {
   font-size: 1em;
   font-weight: 400;
   text-decoration: none;
-  transition: all 0.2s ease;
+  // transition: all 0.2s ease;
   color: var(--secondary);
   &:hover {
     color: var(--tertiary) !important;
@@ -429,7 +429,7 @@ header {
     .search-path {
       stroke: var(--gray);
       stroke-width: 2px;
-      transition: stroke 0.5s ease;
+      // transition: stroke 0.5s ease;
     }
   }
 }
@@ -481,7 +481,7 @@ header {
       & .result-card {
         padding: 1em;
         cursor: pointer;
-        transition: background 0.2s ease;
+        // transition: background 0.2s ease;
         border: 1px solid var(--outlinegray);
         border-bottom: none;
         width: 100%;
@@ -524,7 +524,8 @@ header {
 
 .search-highlight {
   background-color: #afbfc966;
-  padding: 0.05em 0.2em;
+  // color: rgb(0, 168, 14);
+  // padding: 0.05em 0.2em;
   border-radius: 3px;
 }
 
@@ -597,7 +598,7 @@ header {
   border: 1px solid var(--outlinegray);
   border-radius: 5px;
   // pointer-events: none;
-  transition: opacity 0.2s ease, transform 0.2s ease;
+  // transition: opacity 0.2s ease, transform 0.2s ease;
   // user-select: none;
   overflow-wrap: anywhere;
   // box-shadow: 6px 6px 36px 0px rgba(0,0,0,0.25);
