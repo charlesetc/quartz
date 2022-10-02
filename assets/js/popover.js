@@ -10,8 +10,8 @@ function initPopover(baseURL, useContextualBacklinks, renderLatex) {
   fetchData.then(({ content }) => {
     const links = [...document.getElementsByClassName("internal-link")]
     links
-      .filter(li => li.dataset.src || (li.dataset.idx && useContextualBacklinks))
-      .forEach(li => {
+      .filter((li) => li.dataset.src || (li.dataset.idx && useContextualBacklinks))
+      .forEach((li) => {
         var el
         if (li.dataset.ctx) {
           const linkDest = content[li.dataset.src]
@@ -45,17 +45,21 @@ function initPopover(baseURL, useContextualBacklinks, renderLatex) {
           if (renderLatex) {
             renderMathInElement(el, {
               delimiters: [
-                { left: '$$', right: '$$', display: false },
-                { left: '$', right: '$', display: false },
+                { left: "$$", right: "$$", display: false },
+                { left: "$", right: "$", display: false },
               ],
-              throwOnError: false
+              throwOnError: false,
             })
           }
 
           li.addEventListener("mouseover", () => {
             // fix tooltip positioning
             window.FloatingUIDOM.computePosition(li, el, {
-              middleware: [window.FloatingUIDOM.offset(10), window.FloatingUIDOM.inline(), window.FloatingUIDOM.shift()],
+              middleware: [
+                window.FloatingUIDOM.offset(10),
+                window.FloatingUIDOM.inline(),
+                window.FloatingUIDOM.shift(),
+              ],
             }).then(({ x, y }) => {
               Object.assign(el.style, {
                 left: `${x}px`,
@@ -65,7 +69,7 @@ function initPopover(baseURL, useContextualBacklinks, renderLatex) {
 
             el.classList.add("visible")
           })
-          li.addEventListener("mouseout", () => {
+          li.addEventListener("mouseleave", () => {
             el.classList.remove("visible")
           })
         }

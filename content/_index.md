@@ -13,3 +13,7 @@ You take it all in.
 I hope you find what you came for.
 I've left some trinkets around these woods.
 Maybe you'll find one is a gem?
+
+
+[[Reading this]]
+[[Iridescent]]
