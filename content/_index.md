@@ -15,5 +15,5 @@ I've left some trinkets around these woods.
 Maybe you'll find one is a gem?
 
 
-[[Reading this]]
+[[reading this]]
 [[iridescent]]
