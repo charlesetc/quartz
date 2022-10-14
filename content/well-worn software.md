@@ -11,4 +11,4 @@ Each time you type a character the next becomes a little less perfect? Some gaus
 
 Sitting and reading a page in the sun could cause it to slowly yellow it over time. Switching between applications too quickly might result in wrinkles or even tears. Each play of a song causes it to get a little bit more crackly?
 
-The imperfections that we find ourselves surrounded by in the physical world aren't something to be driven away and improved by software. They are part of the experience of being human. As software progresses it should be easier to implement these wild fantasies. I hope it's the artists who come together to do just that.
+The imperfections that we find ourselves surrounded by in the physical world aren't something to be driven away and improved by software. They are part of the experience of being human. As software progresses it should be easier to implement these wild fantasies. I hope we do.
