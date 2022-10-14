@@ -5,7 +5,7 @@ date: "2022-10-14"
 
 What would software look like if it aged?
 
-Imagine a computing interface that became less and less "new" the more you used it. Sculpted to the shape of your hand. Perhaps the mouse cursos on your computer would become rounder in the direction you most frequently drag? Maybe a button could develop a nice shiny patch the more it is used.
+Imagine a computing interface that became less and less "new" the more you used it. Sculpted to the shape of your hand. Perhaps the mouse cursor on your computer would become rounder in the direction you most frequently drag? Maybe a button could develop a nice shiny patch the more it is used.
 
 Each time you type a character the next becomes a little less perfect? Some gaussian blur or a variable font? A strange result, yes, but yours.
 
