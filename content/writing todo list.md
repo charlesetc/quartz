@@ -1,6 +1,7 @@
 ---
 title: "writing todo list"
 date: "2022-10-14"
+draft: true
 ---
 
 Unstarted:
@@ -9,4 +10,4 @@ Unstarted:
 
 Unfinished:
 
-* *[[strolling through the internet]]
+* *[[a stroll through the internet]]

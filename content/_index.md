@@ -15,3 +15,7 @@ I've left some trinkets around these woods.
 Maybe you'll find one is a gem?
 
 [[well-worn software]]
+[[a stroll through the internet]]
+
+[[software I want to exist]]
+[[writing todo list]]

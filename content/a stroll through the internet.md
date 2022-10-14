@@ -1,6 +1,7 @@
 ---
-title: "Strolling through the Internet"
+title: "A Stroll through the Internet"
 date: "2022-10-14"
+draft: true
 ---
 
 I don't want to rush through life, clicking link after link without ever having the opportunity to stop and enjoy the scenery.
