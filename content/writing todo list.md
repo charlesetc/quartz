@@ -7,7 +7,6 @@ draft: true
 Unstarted:
 
 - think through idea about (programmable) note taking app
-
 Unfinished:
 
 * *[[a stroll through the internet]]
