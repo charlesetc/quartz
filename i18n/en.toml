@@ -26,7 +26,7 @@ other = "Backlinks"
 other = "No backlinks found"
 
 [home]
-other = "Forest"
+other = "Forest Home"
 
 [light_mode]
 other = "Light Mode"
