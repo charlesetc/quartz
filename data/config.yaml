@@ -16,9 +16,9 @@ enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description: An attempt to collect some nuggets of wisdom
 
-page_title: "🌲 Charles' Forest"
+page_title: "Charles' Forest"
 
-short_page_title: "🌲 Forest"
+short_page_title: "Forest"
 links:
   - link_name: Twitter
     link: https://twitter.com/charlesetc
