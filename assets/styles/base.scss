@@ -26,7 +26,7 @@ html {
 }
 
 .singlePage {
-  padding: 4em 30vw;
+  padding: 2em 30vw;
   @media all and (max-width: 1200px) {
     padding: 25px 5vw;
   }
@@ -284,6 +284,17 @@ sup > a {
   }
 }
 
+@media all and (max-width: 600px) {
+  #page-title .long {
+    display: none;
+  }
+}
+@media all and (min-width: 600px) {
+  #page-title .short {
+    display: none;
+  }
+}
+
 a {
   font-size: 1em;
   font-weight: 400;
@@ -413,6 +424,10 @@ header {
     & > p {
       display: inline;
       padding: 0 1.5em 0 2em;
+
+      @media all and (max-width: 600px) {
+        display: none;
+      }
     }
   }
 
@@ -659,4 +674,10 @@ header {
   li a {
     padding: 0 1em;
   }
+}
+
+#search-icon,
+.darkmode {
+  position: relative;
+  top: -3px;
 }

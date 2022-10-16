@@ -15,4 +15,4 @@ I can create my own paths. I can choose their lighting and scenery. I can leave 
 
 I might run into someone else along this path. In busier parts I would move hurriedly past them. But in the more remote corners, I might welcome a fellow traveler.  We could work together, reading articles, discussing them, even writing them.
 
-The internet can be anything we want it to be.
+I'm not sure what the internet is going to be in 100 years but it's definitely not going to look anything like it does today.

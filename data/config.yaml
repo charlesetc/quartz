@@ -14,11 +14,11 @@ enableGitHubEdit: true
 GitHubLink: https://github.com/charlesetc/quartz/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
-description:
-  An attempt to collect some nuggets of wisdom
-  
-page_title:
-  "🌲 Charles' Forest"
+description: An attempt to collect some nuggets of wisdom
+
+page_title: "🌲 Charles' Forest"
+
+short_page_title: "🌲 Forest"
 links:
   - link_name: Twitter
     link: https://twitter.com/charlesetc
