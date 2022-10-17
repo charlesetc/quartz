@@ -11,7 +11,7 @@ I want to take my time. Move through the environment. Listen to the music. And t
 
 I can always walk through this exact path again. I can see this path on a map of everything I have ever read or explored. 
 
-I can create my own paths. I can choose their lighting and scenery. I can leave messages. For myself and others. I can share this path, linking someone else for a starting point to their walk.
+I can create my own paths. I can choose their lighting and scenery. I can leave messages. For myself and others. I can share this path, linking someone else to a starting point for their own walk.
 
 I might run into someone else along this path. In busier parts I would move hurriedly past them. But in the more remote corners, I might welcome a fellow traveler.  We could work together, reading articles, discussing them, even writing them.
 
