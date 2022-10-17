@@ -13,6 +13,6 @@ I can always walk through this exact path again. I can see this path on a map of
 
 I can create my own paths. I can choose their lighting and scenery. I can leave messages. For myself and others. I can share this path, linking someone else to a starting point for their own walk.
 
-I might run into someone else along this path. In busier parts I would move hurriedly past them. But in the more remote corners, I might welcome a fellow traveler.  We could work together, reading articles, discussing them, even writing them.
+I might run into someone else along the way. In busier parts I would move hurriedly past them. But in the more remote corners, I might welcome a fellow traveler.  We could work together, reading articles, discussing them, even writing them.
 
 I'm not sure what the internet is going to be in 100 years but it's definitely not going to look anything like it does today. Let's make it a place we want to be.
