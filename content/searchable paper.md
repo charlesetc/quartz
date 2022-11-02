@@ -11,7 +11,7 @@ Rather than having computers replace paper, what if they could expand its possib
 
 What's stopping us from positioning a high resolution camera above our desks at all times? Then when we write down *anything*, a computer could parse the text and track which page it's on. It could maintain a catalog of not only *what* has been written, but *where*. We should be able to search our entire index of handwritten notes to get a list of search results pages back. Want to retrieve a particular page? The system could tell us not only the x and y coordinates but how many pages deep in a stack it is.
 
-Where can we go from here? Serving markdown content right from these notes? Editing a website with an eraser?! How about editing your whole backend?
+Where can we go from here? Serving markdown content right from these notes? Editing a website with an eraser?! How about your whole backend?
 
 This is an interface I would love to use to interact with the digital world. I look forward to the day I can!
 
