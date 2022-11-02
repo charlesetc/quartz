@@ -340,7 +340,7 @@ footer {
 
 hr {
   width: 25%;
-  margin: 4em auto;
+  margin: 2.5em auto;
   height: 2px;
   border-radius: 1px;
   border-width: 0;
@@ -362,6 +362,10 @@ hr {
   }
 
   & > .backlinks-container {
+    & > h3 {
+      margin-top: 0;
+    }
+
     & > ul {
       list-style: none;
       padding: 0;
