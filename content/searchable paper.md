@@ -13,8 +13,6 @@ What's stopping us from positioning a high resolution camera above our desks at 
 
 Where can we go from here? Serving markdown content right from these notes? Editing a website with an eraser?! How about your whole backend?
 
-This is an interface I would love to use to interact with the digital world. I look forward to the day I can!
-
 ---
 
-If find this interesting, you might also like [Bret Victor](https://vimeo.com/worrydream), [Omar Rizwan](https://omar.website/) , or [Batou's Augmented Desk](https://batou.xyz/content/augmented-desk).
+If find this interesting, you might also like [Bret Victor](https://vimeo.com/worrydream), [Omar Rizwan](https://omar.website/) , or [Batou's Augmented Desk](https://batou.xyz/content/augmented-desk)
