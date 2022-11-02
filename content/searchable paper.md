@@ -17,4 +17,4 @@ I'm not thinking of this just as a fantasy. This is an interface I would love to
 
 ---
 
-If find this interesting, you might also like [Bret Victor](https://vimeo.com/worrydream), [Omar Rizwan](https://omar.website/) , and [Batou's Augmented Desk](https://batou.xyz/content/augmented-desk).
+If find this interesting, you might also like [Bret Victor](https://vimeo.com/worrydream), [Omar Rizwan](https://omar.website/) , or [Batou's Augmented Desk](https://batou.xyz/content/augmented-desk).
