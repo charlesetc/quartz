@@ -15,4 +15,4 @@ Where can we go from here? Serving markdown content right from these notes? Edit
 
 ---
 
-If find this interesting, you might also like [Bret Victor](https://vimeo.com/worrydream), [Omar Rizwan](https://omar.website/) , or [Batou's Augmented Desk](https://batou.xyz/content/augmented-desk)
+If find this interesting, you might also like [Bret Victor](https://vimeo.com/worrydream), [Omar Rizwan](https://omar.website/), or [Batou's Augmented Desk](https://batou.xyz/content/augmented-desk)
