@@ -1,4 +1,4 @@
-.DEFAULT_GOAL := push
+.DEFAULT_GOAL := serve
 
 help: ## Show all Makefile targets
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}'
@@ -17,7 +17,10 @@ update-force: ## Forcefully pull all changes and don't ask to patch
 	git checkout upstream/hugo -- layouts .github Makefile assets/js assets/styles/base.scss assets/styles/darkmode.scss config.toml data
 
 serve: ## Serve Quartz locally
-	hugo-obsidian -input=content -output=assets/indices -index -root=. && hugo server --enableGitInfo -p 8888
+	hugo-obsidian -input=content -output=assets/indices -index -root=. && hugo server -D --enableGitInfo -p 8888
+
+serve-prod:
+	hugo-obsidian -input=content -output=assets/indices -index -root=. && hugo server    --enableGitInfo -p 8888
 
 push: ## Push changes to github
 	git add . 
