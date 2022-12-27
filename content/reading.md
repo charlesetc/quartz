@@ -4,6 +4,7 @@ date: "2022-10-16"
 ---
 
 Some books I enjoyed reading
+* [The Children's Machine](https://archive.org/stream/pdfy-WeLwkqLL6w830OqF/Papert%20Seymour-The%20Children%27s%20Machine_djvu.txt), Seymour Papert
 - [The Dawn of Everything](https://us.macmillan.com/books/9780374157357/thedawnofeverything), David Graeber
 - Form, Function & Design, Paul Jacques Grillo
 - Company of One, [Paul Jarvis](https://usefathom.com/pjrvs)

@@ -6,4 +6,5 @@ draft: true
 
 linking: [[/]]
 
-[[The Childrens Machine]]
+[[the childrens machine]]
+[[all art is generative art]]
